@@ -40,5 +40,10 @@ placeholder="Enter Employee Email" name="empEmail">
 onclick="saveEmployee();">
 </form>
 </div>
+<script>
+function saveEmployee(){
+            alert("It worked");
+        }
+</script>
 </body>
 </html>

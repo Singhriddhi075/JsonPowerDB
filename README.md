@@ -14,7 +14,8 @@
 - #Screenshot
 - ![Dashboard] ![Screenshot (20)](https://user-images.githubusercontent.com/75823967/111730627-d6cb0280-8897-11eb-98e9-f8c2b8944862.png)
 - ![Index Page] ![Screenshot (21)](https://user-images.githubusercontent.com/75823967/111808377-f4c94f00-88f9-11eb-9b90-a25896878d6b.png)
-- ![Visualize] 
+- ![Visualize] ![Screenshot (22)](https://user-images.githubusercontent.com/75823967/111808790-57224f80-88fa-11eb-9af3-e01a6f0cc0c6.png)
+
 
 
 
